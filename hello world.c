@@ -109,9 +109,8 @@ int main(int argc, char const *argv[])
 
     print_grid(grid);
 
-    int neighbors = 0;
-    int iterations = 10;
     // game iterations
+    int iterations = 10;
     for (int i = 0; i < iterations; i++)
     {
         copy_grid(grid, temp_grid);
