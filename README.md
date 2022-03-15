@@ -1,2 +1,5 @@
-# remembering_c_hello_world
-Never doing this again
+# Hello World-ish
+
+## Conway's Game of Life
+
+### This was done as an attemp to remember a bit of C
